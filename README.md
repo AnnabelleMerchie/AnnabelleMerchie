@@ -31,7 +31,7 @@
 
 ## 📫 Get in Touch
 
-- ✉️ annabelle.merchie[at]ulb.be
+- ✉️ annabelle.merchie@ulb.be 
 - 🌐 [annabellemerchie.github.io](https://annabellemerchie.github.io) *(soon)*
 
 
