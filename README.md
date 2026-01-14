@@ -8,8 +8,9 @@
 
 ## 🔬 Current Projects
 
-- 🎧 EEG study on neural adaptation in autistic children  
-- 👁️ Eye-tracking task on visual anticipation in linguistic sequences  
+- 🏫 Lexical learning (autistic and non-autisic adults and children, DLD children)
+- 🎧 EEG study on neural adaptation  
+- 👁️ Eye-tracking task on lexical acquisition  
 
 ---
 
@@ -22,8 +23,8 @@
 ## 🛠️ Skills & Tools
 
 - **Languages**: Python (Pandas, NumPy, MNE, Matplotlib), MATLAB, R  
-- **EEG Tools**: MNE-Python, Brainstorm, EEGLab  
-- **Experiment Platforms**: PsychoPy, ePrime, Presentation  
+- **EEG Tools**: MNE-Python, Brainstorm, EEGLab, ELAN  
+- **Experiment Platforms**: PsychoPy, Presentation  
 - **Statistical Analysis**: Mixed-effects models, GAMMs  
 - **Data Domains**: Physiological data (EEG, EMG, ect.), behavioral, and eye-tracking (oculomotor and pupil) data
 
@@ -32,7 +33,6 @@
 ## 📫 Get in Touch
 
 - ✉️ annabelle.merchie@ulb.be 
-- 🌐 [annabellemerchie.github.io](https://annabellemerchie.github.io) *(soon)*
 
 
 
